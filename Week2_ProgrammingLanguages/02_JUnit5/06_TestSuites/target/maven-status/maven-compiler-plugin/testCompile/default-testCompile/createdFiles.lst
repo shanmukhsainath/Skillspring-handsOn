@@ -1,0 +1,3 @@
+com\skillspring\week2\junit\suites\AllTestsSuite.class
+com\skillspring\week2\junit\suites\TextServiceTest.class
+com\skillspring\week2\junit\suites\MathServiceTest.class
